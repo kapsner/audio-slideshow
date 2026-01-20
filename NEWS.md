@@ -2,7 +2,7 @@
 
 # audio-slideshow NEWS
 
-## Unreleased (2025-12-20)
+## Unreleased (2026-01-20)
 
 #### Bug fixes
 
@@ -12,15 +12,25 @@
 #### Refactorings
 
 -   changed keybinding for narrative recording to ‘y’
-    ([c615850](https://github.com/kapsner/audio-slideshow/tree/c615850eb1ece4a802f7bd0391869711b31ff3a4))
+    ([d54f835](https://github.com/kapsner/audio-slideshow/tree/d54f8352c24cae6d2de57647b1c56ad9d3a32e74))
 
 #### CI
 
 -   added pre-commit-hooks
     ([4500ea2](https://github.com/kapsner/audio-slideshow/tree/4500ea2180a279132e977372389fc21e8c3d992c))
 
+#### Docs
+
+-   updated readme
+    ([afcc5bf](https://github.com/kapsner/audio-slideshow/tree/afcc5bf902aa6e5d9a9a1299119777150ada03c8))
+
 #### Other changes
 
+-   minimum required quarto version to 1.9.16 and updated pre-commit
+    versions
+    ([39855eb](https://github.com/kapsner/audio-slideshow/tree/39855eb52bc9925b8dd206a20c75b61fa5e0f8c6))
+-   Merge pull request #4 from TS-CUBED/TS-CUBED-patch-1
+    ([13f3282](https://github.com/kapsner/audio-slideshow/tree/13f3282cc44d3e206ec72450eb93eaa20d03f02e))
 -   added minimum required quarto version
     ([f2cf3ee](https://github.com/kapsner/audio-slideshow/tree/f2cf3ee1c59455a7b66759cd33c7f873469b302e))
 -   added news.md
@@ -31,7 +41,7 @@
     ([c0cd6df](https://github.com/kapsner/audio-slideshow/tree/c0cd6df22e9858e44c69660a9f137545574cc77e))
 
 Full set of changes:
-[`v1.0.0...c615850`](https://github.com/kapsner/audio-slideshow/compare/v1.0.0...c615850)
+[`v1.0.0...39855eb`](https://github.com/kapsner/audio-slideshow/compare/v1.0.0...39855eb)
 
 ## v1.0.0 (2025-02-20)
 

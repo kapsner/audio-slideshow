@@ -4,7 +4,7 @@ authors:
     orcid: 0000-0003-1866-860X
   - name: Asvin Goel
 version: 1.0.1
-quarto-required: ">=1.9.12"
+quarto-required: ">=1.9.16"
 contributes:
   revealjs-plugins:
     - name: RevealAudioRecorder
